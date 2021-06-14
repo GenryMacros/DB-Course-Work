@@ -1,0 +1,49 @@
+﻿  autofit.c
+  ftbase.c
+  ftbbox.c
+  ftbdf.c
+  ftbitmap.c
+  ftcid.c
+  ftfstype.c
+  ftgasp.c
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+  ftmm.c
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  ftsystem.c
+  fttype1.c
+  ftwinfnt.c
+  bdf.c
+  ftcache.c
+  cff.c
+  type1cid.c
+C:\Users\Light\Desktop\NewFolder\FreeType\src\base\ftstroke.c(1116): warning C4701: использована потенциально неинициализированная локальная переменная "sigma"
+  ftgzip.c
+  ftlzw.c
+C:\Users\Light\Desktop\NewFolder\FreeType\src\base\ftstroke.c(1021): warning C4701: использована потенциально неинициализированная локальная переменная "sigma"
+  pcf.c
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+C:\Users\Light\Desktop\NewFolder\FreeType\src\smooth\ftgrays.c(533): warning C4706: назначение в пределах условного выражения
+C:\Users\Light\Desktop\NewFolder\FreeType\src\sfnt\sfwoff2.c(317,37): warning C4100: src_size: неиспользованный формальный параметр (компилируется исходный файл ..\..\..\src\sfnt\sfnt.c)
+C:\Users\Light\Desktop\NewFolder\FreeType\src\sfnt\sfwoff2.c(316,37): warning C4100: src: неиспользованный формальный параметр (компилируется исходный файл ..\..\..\src\sfnt\sfnt.c)
+C:\Users\Light\Desktop\NewFolder\FreeType\src\sfnt\sfwoff2.c(315,37): warning C4100: dst_size: неиспользованный формальный параметр (компилируется исходный файл ..\..\..\src\sfnt\sfnt.c)
+C:\Users\Light\Desktop\NewFolder\FreeType\src\sfnt\sfwoff2.c(314,37): warning C4100: dst: неиспользованный формальный параметр (компилируется исходный файл ..\..\..\src\sfnt\sfnt.c)
+C:\Users\Light\Desktop\NewFolder\FreeType\src\truetype\ttgxvar.c(2237): warning C4701: использована потенциально неинициализированная локальная переменная "fvar_head"
+  ftdebug.c
+     Создается библиотека ..\..\..\objs\Win32\Debug\freetype.lib и объект ..\..\..\objs\Win32\Debug\freetype.exp
+  freetype.vcxproj -> C:\Users\Light\Desktop\NewFolder\FreeType\builds\windows\vc2010\..\..\..\objs\Win32\Debug\freetype.dll

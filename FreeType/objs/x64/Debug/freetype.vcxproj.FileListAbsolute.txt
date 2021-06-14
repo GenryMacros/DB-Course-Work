@@ -1,0 +1,2 @@
+C:\Users\Light\Desktop\NewFolder\FreeType\objs\x64\Debug\freetype.dll
+C:\Users\Light\Desktop\NewFolder\FreeType\objs\x64\Debug\freetype.pdb

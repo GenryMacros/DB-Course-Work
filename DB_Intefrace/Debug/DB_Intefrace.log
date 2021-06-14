@@ -1,0 +1,79 @@
+﻿  DB_Intefrace.cpp
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Clock.h(19,47): warning C4244: return: преобразование "sf::Int32" в "float", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Clock.h(22,47): warning C4244: return: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(72,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(73,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(77,63): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(84,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(86,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(98,53): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(101,53): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(112,42): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(112,30): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\InputBlock.h(140,32): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Button.h(68,42): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Button.h(68,30): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Button.h(88,42): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Button.h(88,30): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\TextBlock.h(34,40): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(20,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(21,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(21,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(47,61): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(47,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(57,75): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(57,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(71,61): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(71,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(90,36): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\SelectionCircle.h(90,24): warning C4244: аргумент: преобразование "T" в "GLint", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(88,20): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(258,21): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(303,21): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(396,21): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(441,21): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(496,21): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\FullableBlock.h(45,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\FullableBlock.h(45,23): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\AttentionWindow.h(153,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\AttentionWindow.h(156,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\AttentionWindow.h(157,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Scene.h(695,1): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Scene.h(760,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Scene.h(767,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Scene.h(827,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\Scene.h(678): warning C4715: Scene::getCurrentSceneElems: значение возвращается не при всех путях выполнения
+C:\Users\Light\source\repos\DB_Intefrace\DB_Intefrace\server.h(40): warning C4715: SQLserver::Connect: значение возвращается не при всех путях выполнения
+  DB_Intefrace.vcxproj -> C:\Users\Light\source\repos\DB_Intefrace\Debug\DB_Intefrace.exe

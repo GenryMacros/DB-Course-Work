@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{d8d48840-2b9a-4f83-a35c-2550a181f1ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{b9ceddc9-1130-40c7-906b-37565f6e3c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Structures">
+      <UniqueIdentifier>{3d5453a7-7dc2-4858-aff7-88f792b29cca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Control">
+      <UniqueIdentifier>{dfe99236-f804-4ec6-a0d9-cb163bb4efb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Interactible">
+      <UniqueIdentifier>{9b2200d2-48f8-46a5-a139-d29f74527396}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Blocks">
+      <UniqueIdentifier>{d877e171-f1af-4033-9abe-cff006aa3b02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoolThings">
+      <UniqueIdentifier>{119d8f8d-daff-4602-86e2-d8861ceff6dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server">
+      <UniqueIdentifier>{65d7ee5f-9757-4a3a-ac9c-cc9d03b1dbcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Parents">
+      <UniqueIdentifier>{016b18f5-18df-4e3a-879b-de6ede5353b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserInfo">
+      <UniqueIdentifier>{f668a149-d0be-4db3-9dea-f17cfe345b19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DB_Intefrace.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>UI\Interactible</Filter>
+    </ClCompile>
+    <ClCompile Include="InputBlock.cpp">
+      <Filter>UI\Interactible</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBlock.cpp">
+      <Filter>UI\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>UI\Blocks</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>CoolThings</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>CoolThings</Filter>
+    </ClCompile>
+    <ClCompile Include="Server.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Elem.cpp">
+      <Filter>UI\Parents</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInfo.cpp">
+      <Filter>UserInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="AttentionWindow.cpp">
+      <Filter>CoolThings</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionCircle.cpp">
+      <Filter>UI\Interactible</Filter>
+    </ClCompile>
+    <ClCompile Include="FullableBlock.cpp">
+      <Filter>UI\Blocks</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>UI\Interactible</Filter>
+    </ClInclude>
+    <ClInclude Include="InputBlock.h">
+      <Filter>UI\Interactible</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBlock.h">
+      <Filter>UI\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>UI\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>CoolThings</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>CoolThings</Filter>
+    </ClInclude>
+    <ClInclude Include="Server.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="Userinfo.h">
+      <Filter>UserInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="AttentionWindow.h">
+      <Filter>CoolThings</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionCircle.h">
+      <Filter>UI\Interactible</Filter>
+    </ClInclude>
+    <ClInclude Include="FullableBlock.h">
+      <Filter>UI\Blocks</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Elem.h">
+      <Filter>UI\Parents</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
